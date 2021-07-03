@@ -42,12 +42,13 @@ The analysis of the election show that:
 - The winner of the election was:
 
   - Diana DeGette, who received 272,892 number of votes, 73.8% of the total votes cast in the election.
+  - 
+![Screen Shot 2021-07-03 at 12 12 50 PM](https://user-images.githubusercontent.com/85265816/124362088-8e421580-dbf8-11eb-9de4-f71ba3009d1c.png)
 
 
 ## Election Audit Summary
-There is a statement to the election commission that explores how this script can be used for any election, with two examples for modifying the script.
-Our script effectively found out the votes and voting rate for each county and candiates, and also be able to find the largest county turn out , the winner of the election. 
-For future pupose if we need further utilization of this scripts for election commision. We can calculate the amount of votes each candidate received from each county. The vote percentage each candiates got from those three counties. A second way of utilizing this script is by changing the county name, we can calculate votes for city, state or region, any type of election.
 
-![Screen Shot 2021-07-03 at 12 12 50 PM](https://user-images.githubusercontent.com/85265816/124362088-8e421580-dbf8-11eb-9de4-f71ba3009d1c.png)
+Our script effectively found out the votes and voting rate for each county and candiates, and also be able to find the largest county turn out, the winner of the election. 
+For future pupose if we need further utilization of this scripts for election commision. We can calculate the amount of votes each candidate received from each county.  A second way of utilizing this script is by changing the county name, we can calculate votes for city, state, region, or any type of election.
+
 
