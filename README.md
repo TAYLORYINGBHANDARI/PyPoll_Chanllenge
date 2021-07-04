@@ -52,9 +52,9 @@ The analysis of the election show that:
   - Diana DeGette, who received 272,892 number of votes, 73.8% of the total votes cast in the election.
  
  
-# Election Results print out
+## Election Results print out
 
-    ![Screen Shot 2021-07-03 at 12 12 50 PM](https://user-images.githubusercontent.com/85265816/124362088-8e421580-dbf8-11eb-9de4-f71ba3009d1c.png)
+   ![Screen Shot 2021-07-03 at 12 12 50 PM](https://user-images.githubusercontent.com/85265816/124362088-8e421580-dbf8-11eb-9de4-f71ba3009d1c.png)
 
 
 ## Election Audit Summary
