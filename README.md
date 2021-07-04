@@ -2,8 +2,8 @@
 # Election_Audit
 ## Project Overview
 
-A Colorado Board of Elections employee has given the following tasks to complete the election audit of a recent local congressional election.
-In this project, our final Python script will need to be able to deliver the following information when the script is run: 
+An employee from Colorado Board of Elections has given the following tasks to complete the election audit of a recent local congressional election.
+In this project, our final Python script should be able to deliver the following information when the script is run: 
 
 - Total number of votes cast
 - The voter turnout for each county
@@ -48,7 +48,7 @@ The analysis of the election show that:
 
 ## Election Audit Summary
 
-Our script effectively found out the votes and voting rate for each county and candiates, and also be able to find the largest county turn out, the winner of the election. 
-For future pupose if we need further utilization of this scripts for election commision. We can calculate the amount of votes each candidate received from each county.  A second way of utilizing this script is by changing the county name, we can calculate votes for city, state, region, or any type of election.
+Our script effectively found out the votes and voting rate for each county and candiates. Moreover, it is able to find the largest county turn out, and the winner of the election. 
+For future purpose, if we need further utilization of this scripts for election commision, we can calculate the amount of votes each candidate received from each county.  A second way of utilizing this script is by changing the county name, where we can calculate votes for city, state, region, or any type of election.
 
 
