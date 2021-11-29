@@ -1,4 +1,4 @@
-# PyPoll_Challenge
+
 # Election_Audit
 ## Project Overview
 
